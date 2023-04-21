@@ -8,7 +8,7 @@ A repository for the RTX Remix config files to use with Morrowind.
 2. Unpack the latest [RTC Remix Release](https://github.com/NVIDIAGameWorks/rtx-remix/releases) to the Morrowind folder.
 3. Unpack [dxwrapper_dx8](https://cdn.discordapp.com/attachments/1055002970091176006/1096142373609811978/dxwrapper_dx8.7z) to the Morrowind folder.
 4. Add [rtx.conf](./rtx.conf) file to the Morrowind folder.
-5. Set the game into windowed mode.
+5. Set the game into windowed mode and disable shaders.
 6. Launch the game.
 7. Use Alt + X to open Remix Overlay
 
